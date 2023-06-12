@@ -20,3 +20,9 @@ ul {
     list-style: none;
 }
 
+.stir-fry,
+.salmon,
+.omelet {
+    background-color: azure;
+    color: grey;
+}
