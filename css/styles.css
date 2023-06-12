@@ -11,6 +11,11 @@
     text-align: center;
 }
 
+.homepage.h1 {
+    font-size: large;
+    font-weight: 700;
+}
+
 ul {
     list-style: none;
 }
