@@ -1,3 +1,10 @@
 * {
     font-family: 'Times New Roman', serif;
 }
+
+.homepage {
+    background-color: aquamarine;
+    color: darkslategray;
+    font-size: medium;
+    text-align: center;
+}
